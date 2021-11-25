@@ -24,8 +24,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/hjfitz/swagger-def-to-interface.git"
-  },
-  "release": {
-    "branches": ["main"]
   }
 }
