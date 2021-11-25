@@ -7,6 +7,8 @@ jobs:
     name: Check and Publish
     runs-on: ubuntu-latest
     environment: prod
+    env:
+      GH_TOKEN: ${{ secrets.NPM_TOKEN }}
     steps:
       - name: checkout repo
         uses: actions/checkout@v2
