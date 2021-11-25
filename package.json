@@ -5,6 +5,7 @@
   "type": "module",
   "license": "MIT",
   "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
     "@types/commander": "^2.12.2",
     "@types/node": "^16.11.9",
     "semantic-release": "^18.0.1",
