@@ -1,6 +1,6 @@
 {
   "name": "swagger-to-tsd",
-  "version": "0.0.0-development",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "license": "MIT",
